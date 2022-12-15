@@ -1,0 +1,97 @@
+html {
+    /*background-color: #d0a4ff;*/
+    background-image: url("project1/img/TOMFOOLERY.gif");
+}
+
+
+body {
+    border-style: solid;
+    border-radius: 50px;
+    border-color: #3a3a3a;
+    
+    margin-top: 30px;
+    margin-left: 600px;
+    margin-right: 600px;
+
+    background-color: #c0e9ef;
+}
+
+
+.profile img {
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #3a3a3a;
+    
+    height: 200px;
+    width: 200px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+
+.middleBarBoi {
+    background-color: #CCB5FB;
+    overflow: hidden;
+}
+
+.middleBarBoi a {
+    float: left;
+    color: #3a3a3a;
+    text-align: center;
+    padding: 14px 16px;
+    
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.middleBarBoi a:hover {
+    background-color: #BBA4EA;
+    color: #3a3a3a;
+}
+
+.middleMiddleBarBoi a {
+    float: none;
+    position: absolute;
+    /*    left: 920px;*/
+    left: 47.25%;
+}
+
+.rightMiddleBarBoi {
+    float: right;
+}
+
+
+.socialLinks {
+    background-color: #c0e9ef;
+    border-radius: 75px;
+}
+
+.socialLinks a {
+    display: block;
+    padding: 16px;
+    color: #3a3a3a;
+
+    width: 42%;
+    height: 25px;
+    border-radius: 40%;
+    border-spacing: 8px;
+
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    margin-bottom: 35px;
+
+    background-color: #CCB5FB;
+
+    text-align: center;
+    text-decoration: none;
+}
+
+.socialLinks a:hover {
+    background-color: #BBA4EA;
+}
