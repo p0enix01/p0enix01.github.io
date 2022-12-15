@@ -12,9 +12,8 @@ body {
 
 
 .profile img {
-    border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    border-radius: 500px;
+    width: 250px;
     
     display: block;
     margin-left: auto;
@@ -56,7 +55,7 @@ body {
     border-spacing: 8px;
 
     background-color: #CCB5FB;
-}
+ }
 
 .socialLinks a:hover {
     background-color: #BBA4EA;
